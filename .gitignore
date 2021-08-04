@@ -1,0 +1,8 @@
+node_modules
+.env
+unused
+node_modules
+.env
+seeder.js
+data/products.js
+ data/users.js
